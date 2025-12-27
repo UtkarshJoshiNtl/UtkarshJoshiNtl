@@ -5,15 +5,15 @@ Recently, I’ve been building projects on a WSL2-based workflow, exploring syst
 ---
 
 ## Tech Stack
-📝 Languages
+###📝 Languages
 ![C](https://img.icons8.com/color/48/000000/c-programming.png) **C**    ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**    ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
-📚 CS Fundamentals
+###📚 CS Fundamentals
 Data Structures & Algorithms • OOP • Operating Systems • Computer Networks • DBMS
-🗄 Databases
+###🗄 Databases
 **SQL**,**MongoDB**
-🛠 Dev Tools
+###🛠 Dev Tools
 **Git**,**GitHub**,**Linux**,**Docker**,**Postman**
-🚀 Currently Learning
+###🚀 Currently Learning
 **System Design**
 **Kubernetes**
 **Distributed Systems**
