@@ -23,4 +23,4 @@ System Design • Kubernetes • Distributed Systems
 
 ---
 ## Funfact-
-I love DOOM. I've also tried running it on nearly every device I own.![Doom](https://img.icons8.com/color/48/000000/doom.png)
+I love DOOM. I've also tried running it on nearly every device I own.
