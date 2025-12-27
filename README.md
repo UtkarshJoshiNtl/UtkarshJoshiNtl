@@ -19,7 +19,6 @@ Data Structures & Algorithms • OOP • Operating Systems • Computer Networks
 **Git**, **GitHub**, **Linux**, **Docker**, **Postman**
 
 🚀 Currently Learning
-
 System Design • Kubernetes • Distributed Systems
 
 ---
