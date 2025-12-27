@@ -20,11 +20,7 @@ Data Structures & Algorithms • OOP • Operating Systems • Computer Networks
 
 🚀 Currently Learning
 
-**System Design**
-
-**Kubernetes**
-
-**Distributed Systems**
+System Design, Kubernetes, Distributed Systems
 
 ---
 ## Funfact
