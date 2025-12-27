@@ -1,29 +1,32 @@
-# नमस्ते, I am Utkarsh
+# Hi, I am Utkarsh
 
-I am an engineering student from India with a passion for understanding how systems work. I enjoy exploring software and hardware, experimenting with new technologies, and building projects that challenge my knowledge.  
-
-I primarily work with Linux, and I am passionate about **open-source development** and **graphics programming**. I aim to deepen my skills in system-level programming and creative computing.  
+I’m Utkarsh, an engineering student focused on understanding how systems work under the hood.
+Recently, I’ve been building projects on a WSL2-based workflow, exploring systems design and fundamentals through hands-on projects.
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
-**Operating System**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+### Languages
+C • C++ • Java
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+### CS Fundamentals
+Data Structures & Algorithms • OOP • Operating Systems • Computer Networks • DBMS
 
-**Frameworks**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+### Backend
+Springboot • REST APIs 
 
-**Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+### Databases
+SQL • MongoDB 
+
+### Dev Tools
+Git • GitHub • Linux • Docker • Postman
+
+### Currently Learning
+System Design • Kubernetes • Distributed Systems
 
 ---
 
 ## Fun Fact
 
-I love DOOM so much that I've tried running it on nearly every device I own.
+I love DOOM. I've also tried running it on nearly every device I own.
