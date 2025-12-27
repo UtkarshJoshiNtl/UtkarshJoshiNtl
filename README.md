@@ -13,14 +13,17 @@ Recently, I’ve been building projects on a WSL2-based workflow, exploring syst
 Data Structures & Algorithms • OOP • Operating Systems • Computer Networks • DBMS
 
 🗄 Databases
-**SQL**,**MongoDB**
+**SQL**, **MongoDB**
 
 🛠 Dev Tools
-**Git**,**GitHub**,**Linux**,**Docker**,**Postman**
+**Git**, **GitHub**, **Linux**, **Docker**, **Postman**
 
 🚀 Currently Learning
+
 **System Design**
+
 **Kubernetes**
+
 **Distributed Systems**
 
 ---
