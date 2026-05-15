@@ -32,11 +32,3 @@ If you want different wording or a one-line badge/summary for any of these, tell
 - Email: joshiutkarshntl@gmail.com
 - GitHub: https://github.com/UtkarshJoshiNtl
 
----
-
-## GitHub stats & languages
-(Include these cards in your profile README to show live stats and top languages.)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshJoshiNtl&show_icons=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJoshiNtl&layout=compact)
-
