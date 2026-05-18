@@ -29,22 +29,6 @@ jobs:
           # Languages breakdown
           plugin_languages: yes
           plugin_languages_limit: 6
-          plugin_languages_threshold: 2%
+          plugin_languages_threshold: 1%
           plugin_languages_colors: github
 
-          # Most starred/active repos
-          plugin_repositories: yes
-          plugin_repositories_featured: Astrosis, quip, CuFloda
-
-          # Coding habits - what time of day you commit
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # Recent activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: push, pr, issue
