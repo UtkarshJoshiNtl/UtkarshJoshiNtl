@@ -1,71 +1,44 @@
+# Utkarsh Joshi
 
-</div>
+First-year CS undergrad. I build systems software and GPU-accelerated compute — from scratch, because that's the only way to actually understand them.
 
-<div align="center">
+`C` `C++` `CUDA` `Python` · WSL2 (Debian) · [joshiutkarshntl@gmail.com](mailto:joshiutkarshntl@gmail.com) · [LinkedIn](https://linkedin.com/in/utkarsh-joshi)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  First-year CS undergrad · WSL2 (Debian) · India               │
-│  I implement things from scratch. No wrappers. No shortcuts.    │
-└─────────────────────────────────────────────────────────────────┘
-```
+---
 
-</div>
-
-
-## `> whoami`
-
-```python
-utkarsh = {
-    "focus"    : ["high-performance computing", "GPU acceleration", "orbital simulation"],
-    "languages": ["C", "C++", "Python", "CUDA"],
-    "tooling"  : ["CMake", "Make", "gdb", "valgrind", "perf", "Nsight"],
-    "env"      : "WSL2 (Debian)",
-    "currently": "deepening CUDA · polishing Astrosis · building OSS signal",
-}
-```
-
-
-## `> ping utkarsh`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/joshiutkarshntl%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joshiutkarshntl@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-joshi)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/UtkarshJoshiNtl)
-
-</div>
-
-
-## `> ls projects/`
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛰️ [Astrosis](https://github.com/UtkarshJoshiNtl/Astrosis)
-`Python` `C++` `CUDA` `RK4` `pybind11` `OpenMP`
+**GPU-accelerated orbital propagation engine**
 
-GPU-accelerated orbital propagation engine. RK4 integration with J2/J3/J4 gravity harmonics, US Standard Atmosphere drag, solar radiation pressure, and Brent's method for conjunction refinement.
+`C++` `CUDA` `Python` `pybind11` `OpenMP`
 
-```
-Batch propagation   →  507× faster than Python
-Conjunction screen  →   83× faster than Python  
-Energy conservation →  < 1e-7 drift over 24h
-```
+RK4 integrator with J2/J3/J4 gravity harmonics, atmospheric drag (US Standard Atmosphere), and solar radiation pressure. Brent's method for conjunction refinement. Python bindings via pybind11.
+
+| | vs. Python |
+|---|---|
+| Batch propagation | **507×** faster |
+| Conjunction screening | **83×** faster |
+| Energy drift / 24h | **< 1e-7** |
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌊 [CuFloda](https://github.com/UtkarshJoshiNtl/CuFloda)
-`Python` `NumPy` `PyGame` `CUDA (next)`
+**Real-time fluid dynamics simulation**
 
-Fluid dynamics simulation using the D2Q9 Lattice Boltzmann Method. Real-time PyGame visualization with interactive obstacle drawing. CUDA acceleration is the active next phase.
+`Python` `NumPy` `PyGame` `CUDA (in progress)`
+
+D2Q9 Lattice Boltzmann Method with BGK collision operator. Real-time visualization with interactive obstacle drawing. Inflow, outflow, and bounce-back boundary conditions. CUDA port in active development.
 
 ```
 Method    →  D2Q9 LBM + BGK collision
 Boundary  →  inflow · outflow · bounce-back
-Target    →  128×128 @ 30+ FPS
+Target    →  128×128 @ 30+ FPS (CUDA)
 ```
 
 </td>
@@ -74,46 +47,43 @@ Target    →  128×128 @ 30+ FPS
 <td width="50%" valign="top">
 
 ### 🐚 [Quip](https://github.com/UtkarshJoshiNtl/quip)
+**Unix shell, written in C99**
+
 `C` `POSIX` `termios` `Signal Handling`
 
-Unix shell written in C99. Raw terminal mode from scratch, command pipelines, I/O redirection, background job control, signal handling, command history, and tab completion.
+Built entirely from scratch: raw terminal mode via termios, command pipelines, I/O redirection, background job control, and full signal handling. Arrow-key history and tab completion without readline.
 
 ```
-SIGINT · SIGTERM · SIGCHLD handled
-pipes  · < > >>  · & supported
-termios raw mode  · arrow key history
+Signals   →  SIGINT · SIGTERM · SIGCHLD
+Redirect  →  < > >> · pipes · &
+Terminal  →  raw termios · history · tab complete
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Currently
+
+- Deepening CUDA — memory hierarchy, warp-level primitives, occupancy tuning
+- CUDA backend for CuFloda
+- Building open-source signal
+
+**Interests:** high-performance computing · GPU architecture · numerical methods · orbital mechanics
+
+</td>
 </tr>
 </table>
 
-## `> cat stack.txt`
+---
 
-<div align="center">
+## Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages** — C · C++ · Python · CUDA
 
-</div>
+**Tools** — CMake · Make · gdb · valgrind · perf · Nsight
 
-## `> top --processes`
+**Environment** — WSL2 (Debian) · Git
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=UtkarshJoshiNtl&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=f59e0b&icon_color=f59e0b&text_color=e0e0e0&border_color=262626&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJoshiNtl&layout=compact&theme=dark&bg_color=0f0f0f&title_color=f59e0b&text_color=e0e0e0&border_color=262626&hide_border=false&langs_count=6" />
-
-</div>
-
-<div align="center">
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=UtkarshJoshiNtl&theme=dark&background=0f0f0f&border=262626&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e0e0e0&dates=737373)](https://git.io/streak-stats)
-
-</div>
-
-
