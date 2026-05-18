@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Utkarsh Joshi
 
@@ -28,7 +28,6 @@ First-year CS undergrad. Currently building systems software and GPU-accelerated
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=UtkarshJoshiNtl&theme=dark&background=0f0f0f&border=262626&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e0e0e0&dates=737373)](https://git.io/streak-stats)
 
-<img src="metrics.svg" alt="metrics" />
 
 <br/>
 
