@@ -7,9 +7,13 @@
 <a href="https://codeforces.com/profile/UtkarshJoshiNtl">![Codeforces](https://img.shields.io/badge/codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)</a>
 [![Portfolio](https://img.shields.io/badge/portfolio-F59E0B?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-coral-nu-5ilm6y5jpq.vercel.app)
 
-I like to make things :)
+
 
 </div>
+
+---
+
+## Stack & Activity
 
 <div align="center">
 
@@ -20,6 +24,13 @@ I like to make things :)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UtkarshJoshiNtl&theme=dark&background=0f0f0f&border=262626&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e0e0e0&dates=737373)](https://git.io/streak-stats)
+
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UtkarshJoshiNtl/UtkarshJoshiNtl/output/github-contribution-grid-snake-dark.svg" />
