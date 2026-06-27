@@ -7,13 +7,9 @@
 <a href="https://codeforces.com/profile/UtkarshJoshiNtl">![Codeforces](https://img.shields.io/badge/codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)</a>
 [![Portfolio](https://img.shields.io/badge/portfolio-F59E0B?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-coral-nu-5ilm6y5jpq.vercel.app)
 
-
-
-</div>
-
 ---
 
-## Stack & Activity
+</div>
 
 <div align="center">
 
@@ -31,11 +27,5 @@
 
 
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UtkarshJoshiNtl/UtkarshJoshiNtl/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UtkarshJoshiNtl/UtkarshJoshiNtl/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/UtkarshJoshiNtl/UtkarshJoshiNtl/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
