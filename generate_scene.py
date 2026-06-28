@@ -97,11 +97,11 @@ def generate():
     emit('</path>')
 
     # ─── bottom bar ──────────────────────────────────────────────────
-    emit('<text x="16" y="488" font-family="monospace" font-size="9" '
+    emit('<text x="16" y="488" font-family="monospace" font-size="32" '
          'fill="rgba(255,255,255,0.2)">Utkarsh Joshi</text>')
     emit('<text x="784" y="488" text-anchor="end" font-family="monospace" '
-         'font-size="9" fill="rgba(255,255,255,0.2)">'
-         'C  C++  CUDA  Python  CMake  Linux  Git</text>')
+         'font-size="18" fill="rgba(255,255,255,0.2)">'
+         'C  C++  Python </text>')
 
     emit('</svg>')
     return "\n".join(lines)
