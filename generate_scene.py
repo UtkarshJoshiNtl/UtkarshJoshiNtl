@@ -96,12 +96,7 @@ def generate():
          f'dur="10s" repeatCount="indefinite"/>')
     emit('</path>')
 
-    # ─── bottom bar ──────────────────────────────────────────────────
-    emit('<text x="16" y="488" font-family="monospace" font-size="12" '
-         'fill="rgba(255,255,255,0.2)">Utkarsh Joshi</text>')
-    emit('<text x="784" y="488" text-anchor="end" font-family="monospace" '
-         'font-size="12" fill="rgba(255,255,255,0.2)">'
-         'C  C++  Python </text>')
+
 
     emit('</svg>')
     return "\n".join(lines)
